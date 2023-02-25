@@ -1,0 +1,3 @@
+$good morning
+how are you;
+%good hi I am fine;

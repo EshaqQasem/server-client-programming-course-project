@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\VCsharp\projects\whatsAppServer\whatsAppServer\bin\Debug\whatsAppServer.exe.config
+C:\Users\DELL\Desktop\VCsharp\projects\whatsAppServer\whatsAppServer\bin\Debug\whatsAppServer.exe
+C:\Users\DELL\Desktop\VCsharp\projects\whatsAppServer\whatsAppServer\bin\Debug\whatsAppServer.pdb
+C:\Users\DELL\Desktop\VCsharp\projects\whatsAppServer\whatsAppServer\obj\Debug\whatsAppServer.exe
+C:\Users\DELL\Desktop\VCsharp\projects\whatsAppServer\whatsAppServer\obj\Debug\whatsAppServer.pdb
+C:\Users\DELL\Desktop\VCsharp\projects\whatsAppServer\whatsAppServer\obj\Debug\whatsAppServer.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\VCsharp\projects\whatsAppServer\whatsAppServer\bin\Debug\MyLibrary.dll
+C:\Users\DELL\Desktop\VCsharp\projects\whatsAppServer\whatsAppServer\bin\Debug\MyLibrary.pdb
+D:\VCsharp\projects\whatsAppServer\whatsAppServer\obj\Debug\whatsAppServer.csprojAssemblyReference.cache
+D:\VCsharp\projects\whatsAppServer\whatsAppServer\obj\Debug\whatsAppServer.csproj.CoreCompileInputs.cache
+D:\VCsharp\projects\whatsAppServer\whatsAppServer\obj\Debug\whatsAppServer.exe
+D:\VCsharp\projects\whatsAppServer\whatsAppServer\obj\Debug\whatsAppServer.pdb
